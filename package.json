@@ -1,0 +1,14 @@
+{
+  "name": "integralcalculator",
+  "version": "1.0.0",
+  "description": "A calculator front + backend to solve for the antiderivative given an integrand. \u001b[A\u001b[B",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Joshua Smith",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^20.0.3"
+  }
+}
